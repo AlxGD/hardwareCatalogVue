@@ -1,24 +1,5 @@
-# catalogovue
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# A catalog!
+## this app was created in vue.js!
+### it is a training exercise for me, now with focus on CSS and vue router
+#### I'm a recent graduate searching for a job!
+#### https://www.linkedin.com/in/alexandre-giachetta-delgado-46b380123/
